@@ -8,13 +8,7 @@
 
 MS Computer Science @ NYU Courant &nbsp;·&nbsp; Ex-Data Scientist II @ Micron Technology &nbsp;·&nbsp; B.Tech EE @ NIT Jaipur
 
----
-
-*Here to disrupt the defaults - Building systems that don't fit the current paradigm and making sure they work anyway.*
-
----
-
-**Python** &nbsp;·&nbsp; **Graph Neural Networks** &nbsp;·&nbsp; **NLP / LLMs** &nbsp;·&nbsp; **ML Pipelines** &nbsp;·&nbsp; **Distributed Systems** &nbsp;·&nbsp; **HuggingFace** &nbsp;·&nbsp; **AWS** &nbsp;·&nbsp; **SQL** &nbsp;·&nbsp; **Java**
+*Building systems that DISRUPT the current paradigm and making sure they work anyway.*
 
 ---
 
@@ -25,6 +19,8 @@ MS Computer Science @ NYU Courant &nbsp;·&nbsp; Ex-Data Scientist II @ Micron T
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=s-panda-n.s-panda-n&left_color=gray&right_color=blueviolet)
 
 *Open to collaborating on projects that challenge how things are built, especially if it involves a non-trivial problem and a clean solution.*
+
+**Python** &nbsp;·&nbsp; **Graph Neural Networks** &nbsp;·&nbsp; **NLP / LLMs** &nbsp;·&nbsp; **ML Pipelines** &nbsp;·&nbsp; **Distributed Systems** &nbsp;·&nbsp; **HuggingFace** &nbsp;·&nbsp; **AWS** &nbsp;·&nbsp; **SQL** &nbsp;·&nbsp; **Java**
 
 </div>
 
