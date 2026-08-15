@@ -39,7 +39,7 @@ MS Computer Science @ NYU Courant &nbsp;·&nbsp; Ex-Data Scientist II @ Micron T
 
 <div align="center">
 
-| [🔬 pit-or-persist](https://github.com/s-panda-n/portfolio-us) | [🧬 splice-sense](https://github.com/s-panda-n/splice-sense) | [🌐 portfolio](https://github.com/s-panda-n/s-panda-n.github.io) |
+| [🔬 ETF-recommender-tracker](https://github.com/s-panda-n/portfolio-us) | [🧬 splice-sense](https://github.com/s-panda-n/splice-sense) | [🌐 portfolio](https://github.com/s-panda-n/s-panda-n.github.io) |
 |:---:|:---:|:---:|
 | <sub>Testing how far LLM reasoning holds when the data gets noisy: F1 pit-stop decisions under degrading telemetry reliability.</sub> | <sub>Probing the brittleness of genomic language models through biologically-grounded perturbation on splice site prediction.</sub> | <sub>The paper trail: projects, research, and the thinking behind the work.</sub> |
 
